@@ -1,0 +1,21 @@
+{
+    "name": "Olney",
+    "version": "0.0.8",
+    "description": "Custom PXT package for CoderDojo Olney projects",
+    "license": "MIT",
+    "dependencies": {
+        "microbit": "*"
+    },
+    "files": [
+        "README.md",
+        "olney.ts",
+        "olney.cpp",
+        "shims.d.ts",
+        "enums.d.ts",
+        "pxt.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
