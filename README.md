@@ -16,9 +16,6 @@ olney.motorAction(Motor.Motor1And2, MotorAction.Forward, 1000);
 
 ## Supported targets
 
-* for PXT/microbit
-(The metadata above is needed for package search.)
-
 ## License
 
 MIT
